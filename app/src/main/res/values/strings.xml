@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Momento1</string>
+    <string name="imagenHeader">laptop</string>
+    <string name="title">Search Gaming</string>
+    <string name="subtitle">All you need is here!</string>
+    <string name="branch">Type branch</string>
+    <string name="model">Type model</string>
+    <string name="color">Type color</string>
+    <string name="btnText">find your laptop</string>
+    <string name="searchResult">Search result</string>
+</resources>
